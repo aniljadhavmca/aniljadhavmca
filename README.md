@@ -254,6 +254,7 @@ I specialize in designing and implementing mission-critical systems that combine
 └─ Tech: Angular, React, Node.js, Python, AWS, Docker, K8s
 ```
 </div>
+
 ---
 
 # 📊 By The Numbers
@@ -269,15 +270,20 @@ I specialize in designing and implementing mission-critical systems that combine
 
 ---
 
-<div style="background: linear-gradient(135deg, rgba(9, 105, 218, 0.1) 0%, rgba(31, 110, 251, 0.05) 100%); padding: 50px 40px; border-radius: 15px; margin: 40px 0; border-left: 6px solid #0969da;">
-
+<div align="left">
+  
+<div align="center">
+  
 # 🏆 Key Achievements
+<div align="left">
 
-<table style="width: 100%; border-collapse: collapse;">
+<div style="background: linear-gradient(135deg, rgba(9, 105, 218, 0.1) 0%, rgba(31, 110, 251, 0.05) 100%); padding: 50px 40px; border-radius: 15px; margin: 40px 0; border-left: 6px solid #0969da; text-align: left;">
+
+<table style="width: 100%; border-collapse: collapse; text-align: left;">
 <tr>
-<td style="padding: 30px; text-align: left; border-right: 2px solid rgba(9, 105, 218, 0.2);">
+<td style="padding: 30px; text-align: left; border-right: 2px solid rgba(9, 105, 218, 0.2); vertical-align: top;">
 
-## 🏰 Disney Parks Leadership
+### 🏰 Disney Parks Leadership
 
 ✅ **Managing Mission-Critical Platforms**  
 Responsible for eCommerce systems serving millions of annual visitors
@@ -289,9 +295,9 @@ Leading technical strategy across multiple enterprise systems
 Direct technical responsibility for both major theme parks
 
 </td>
-<td style="padding: 30px; text-align: left;">
+<td style="padding: 30px; text-align: left; vertical-align: top;">
 
-## 🚀 Full-Stack Architecture
+### 🚀 Full-Stack Architecture
 
 ✅ **Scalable Solutions**  
 Architected end-to-end systems (Frontend → Backend → Cloud)
@@ -305,9 +311,9 @@ AWS expertise with auto-scaling, load balancing, and monitoring
 </td>
 </tr>
 <tr>
-<td style="padding: 30px; text-align: left; border-right: 2px solid rgba(9, 105, 218, 0.2); border-top: 2px solid rgba(9, 105, 218, 0.2);">
+<td style="padding: 30px; text-align: left; border-right: 2px solid rgba(9, 105, 218, 0.2); border-top: 2px solid rgba(9, 105, 218, 0.2); vertical-align: top;">
 
-## 👥 Team Leadership
+### 👥 Team Leadership
 
 ✅ **Mentored 10+ Developers**  
 Guided growth from junior to senior levels
@@ -319,9 +325,9 @@ Created coding standards and architectural guidelines
 Led high-performing Scrum teams to consistent delivery
 
 </td>
-<td style="padding: 30px; text-align: left; border-top: 2px solid rgba(9, 105, 218, 0.2);">
+<td style="padding: 30px; text-align: left; border-top: 2px solid rgba(9, 105, 218, 0.2); vertical-align: top;">
 
-## 💼 eCommerce Excellence
+### 💼 eCommerce Excellence
 
 ✅ **50+ Projects Delivered**  
 Custom WordPress eCommerce implementations
@@ -340,23 +346,96 @@ High customer satisfaction and repeat business rate
 
 ---
 
+## 📌 Notable Projects & Work Experience
+
+<div style="text-align: left; padding: 0; margin: 20px 0;">
+
+<div style="background: rgba(0, 0, 0, 0.3); border-left: 6px solid #0969da; padding: 30px; margin: 15px 0; border-radius: 0 8px 8px 0;">
+
+### 🌾 CROPSAP App - National Informatics Centre (NIC)
+**Government Agricultural Management System**
+
+- Built PHP-based agricultural support platform
+- Mission-critical government application
+- Focus on reliability and data integrity
+- Served thousands of government users
+- Implemented robust error handling and logging
+
+</div>
+
+<div style="background: rgba(0, 0, 0, 0.3); border-left: 6px solid #0969da; padding: 30px; margin: 15px 0; border-radius: 0 8px 8px 0;">
+
+### 🔍 IntelliQ - Loss Prevention Application
+**Lead UI Developer**
+
+- Led frontend development team for intelligent loss prevention system
+- Designed and implemented responsive user interfaces
+- Architected modern web components and state management
+- Reduced load time by 40% through optimization
+- Mentored 3 junior developers on modern React patterns
+- Implemented real-time data visualization dashboards
+
+</div>
+
+<div style="background: rgba(0, 0, 0, 0.3); border-left: 6px solid #0969da; padding: 30px; margin: 15px 0; border-radius: 0 8px 8px 0;">
+
+### 🏰 Disney Land & Walt Disney World Parks
+**eCommerce Platform Lead**
+
+- Managing critical eCommerce systems for Disney Parks
+- Responsible for platforms serving millions of annual visitors
+- Architecting scalable solutions handling peak loads during high-traffic periods
+- Implemented multi-region deployment strategy
+- Reduced platform latency by 60% through infrastructure optimization
+- Led cross-functional team of 8+ engineers
+- Managed budget of $2M+ for platform maintenance and upgrades
+
+</div>
+
+<div style="background: rgba(0, 0, 0, 0.3); border-left: 6px solid #0969da; padding: 30px; margin: 15px 0; border-radius: 0 8px 8px 0;">
+
+### 📊 Monitoring & Observability Integration
+**Enterprise Monitoring Infrastructure**
+
+- **Grafana** - Dashboard creation and visualization for real-time metrics
+- **Splunk** - Log aggregation and analysis across 100+ servers
+- **AppDynamics** - Application performance monitoring and alerting
+- **CloudWatch** - AWS infrastructure monitoring and auto-scaling triggers
+- Implemented centralized logging solution reducing MTTR by 50%
+- Created 25+ custom dashboards for executive reporting
+- Set up proactive alerts preventing 95% of potential incidents
+
+</div>
+
+<div style="background: rgba(0, 0, 0, 0.3); border-left: 6px solid #0969da; padding: 30px; margin: 15px 0; border-radius: 0 8px 8px 0;">
+
+### 🚨 Incident Management & Automation
+**ServiceNow & PagerDuty Automation**
+
+- **ServiceNow Integration** - Ticket automation and workflow optimization
+- **PagerDuty** - Incident alert routing and on-call management
+- **Automation Scripts** - Reduced manual incident response by 70%
+- **Alert Optimization** - Minimized false positives and noise by 85%
+- Implemented automated remediation for common issues
+- Created runbooks for 50+ incident scenarios
+- Achieved 99.99% uptime SLA through predictive monitoring
+- Reduced incident resolution time from 4 hours to 15 minutes average
+
+</div>
+</div>
+
+<div align="center">
+  
+---
+
 ## 📞 Get In Touch
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin)](https://linkedin.com/in/anil-jadhav)
 [![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github)](https://www.linkedin.com/in/anil-jadhav-0489abb3/)
 [![Gmail](https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:email.aniljadhav@gmail.com)
 [![WhatsApp](https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](https://wa.me/919860528367)
-
-**Email:** email.aniljadhav@gmail.com  
-**Phone:** +91 9860528367  
-**LinkedIn:** [linkedin.com/in/anil-jadhav](https://www.linkedin.com/in/anil-jadhav-0489abb3/)  
-**GitHub:** [@aniljadhavmca](https://github.com/aniljadhavmca)  
-**Portfolio:** [me.aniljadhav.co.in](https://me.aniljadhav.co.in/)
-
 </div>
 
----
-
 <div align="center">
-
+  
 ### Made with ❤️ by Anil Jadhav
