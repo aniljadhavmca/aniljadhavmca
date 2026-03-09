@@ -23,7 +23,7 @@
 
 # 👋 About Me
 
-Hi, I'm **Anil Jadhav**. I'm a passionate **Full Stack Developer and Technical Leader** with **11+ years of professional experience** building scalable, enterprise-grade solutions. Currently leading full-stack development teams at **Globant**, managing critical eCommerce platforms for **Walt Disney World** and **Disneyland Parks** serving millions of visitors annually.
+Hi, I'm <a href="https://aniljadhav.co.in" target="_blank">**Anil Jadhav**.</a> I'm a passionate **Full Stack Developer and Technical Leader** with **11+ years of professional experience** building scalable, enterprise-grade solutions. Currently leading full-stack development teams at **Globant**, managing critical eCommerce platforms for **Walt Disney World** and **Disneyland Parks** serving millions of visitors annually.
 
 I specialize in designing and implementing mission-critical systems that combine cutting-edge frontend architectures with robust backend infrastructure and cloud-native DevOps practices. My focus is on driving technical excellence, mentoring high-performing teams, and delivering exceptional user experiences at scale.
 
@@ -433,6 +433,7 @@ High customer satisfaction and repeat business rate
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin)](https://linkedin.com/in/anil-jadhav)
 [![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github)](https://www.linkedin.com/in/anil-jadhav-0489abb3/)
 [![Gmail](https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:email.aniljadhav@gmail.com)
+[![Portfolio](https://img.shields.io/badge/Portfolio-0969da?style=for-the-badge&logo=globe&logoColor=white)](https://me.aniljadhav.co.in/)
 [![WhatsApp](https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](https://wa.me/919860528367)
 </div>
 
