@@ -23,7 +23,7 @@ I specialize in designing and implementing mission-critical systems that combine
 
 <table>
 <tr>
-<td align="center" width="50%">
+<td align="left" width="50%">
 
 ## ☁️ Cloud Providers
 
@@ -38,7 +38,7 @@ I specialize in designing and implementing mission-critical systems that combine
 - Auto Scaling, Load Balancing
 
 </td>
-<td align="center" width="50%">
+<td align="left" width="50%">
 
 ## 🔧 Infrastructure & Automation
 
@@ -61,7 +61,7 @@ I specialize in designing and implementing mission-critical systems that combine
 
 <table>
 <tr>
-<td align="center" width="50%">
+<td align="left" width="50%">
 
 ## 🐳 Containers
 
@@ -76,7 +76,7 @@ I specialize in designing and implementing mission-critical systems that combine
 - Container Security
 
 </td>
-<td align="center" width="50%">
+<td align="left" width="50%">
 
 ## 🚀 Orchestration
 
@@ -136,7 +136,7 @@ I specialize in designing and implementing mission-critical systems that combine
 
 <table>
 <tr>
-<td align="center">
+<td align="left">
 
 ## 📈 Monitoring & Logging
 
@@ -152,7 +152,7 @@ I specialize in designing and implementing mission-critical systems that combine
 - ELK Stack
 
 </td>
-<td align="center">
+<td align="left">
 
 ## 🔧 CI/CD & Project Management
 
@@ -263,7 +263,7 @@ I specialize in designing and implementing mission-critical systems that combine
 
 <table style="width: 100%; border-collapse: collapse;">
 <tr>
-<td style="padding: 30px; text-align: center; border-right: 2px solid rgba(9, 105, 218, 0.2);">
+<td style="padding: 30px; text-align: left; border-right: 2px solid rgba(9, 105, 218, 0.2);">
 
 ## 🏰 Disney Parks Leadership
 
@@ -277,7 +277,7 @@ Leading technical strategy across multiple enterprise systems
 Direct technical responsibility for both major theme parks
 
 </td>
-<td style="padding: 30px; text-align: center;">
+<td style="padding: 30px; text-align: left;">
 
 ## 🚀 Full-Stack Architecture
 
@@ -293,7 +293,7 @@ AWS expertise with auto-scaling, load balancing, and monitoring
 </td>
 </tr>
 <tr>
-<td style="padding: 30px; text-align: center; border-right: 2px solid rgba(9, 105, 218, 0.2); border-top: 2px solid rgba(9, 105, 218, 0.2);">
+<td style="padding: 30px; text-align: left; border-right: 2px solid rgba(9, 105, 218, 0.2); border-top: 2px solid rgba(9, 105, 218, 0.2);">
 
 ## 👥 Team Leadership
 
@@ -307,7 +307,7 @@ Created coding standards and architectural guidelines
 Led high-performing Scrum teams to consistent delivery
 
 </td>
-<td style="padding: 30px; text-align: center; border-top: 2px solid rgba(9, 105, 218, 0.2);">
+<td style="padding: 30px; text-align: left; border-top: 2px solid rgba(9, 105, 218, 0.2);">
 
 ## 💼 eCommerce Excellence
 
@@ -323,27 +323,6 @@ High customer satisfaction and repeat business rate
 </td>
 </tr>
 </table>
-
-</div>
-
----
-
-# 💡 Core Competencies
-
-<div align="center">
-
-| Competency | Level | Experience |
-|-----------|-------|-----------|
-| Full-Stack Development | ⭐⭐⭐⭐⭐ | 11+ Years |
-| Frontend Architecture | ⭐⭐⭐⭐⭐ | 8+ Years |
-| Backend Development | ⭐⭐⭐⭐⭐ | 9+ Years |
-| Cloud Infrastructure (AWS) | ⭐⭐⭐⭐⭐ | 5+ Years |
-| DevOps & CI/CD | ⭐⭐⭐⭐⭐ | 4+ Years |
-| Team Leadership | ⭐⭐⭐⭐⭐ | 3+ Years |
-| System Architecture | ⭐⭐⭐⭐⭐ | 7+ Years |
-| Database Design | ⭐⭐⭐⭐ | 8+ Years |
-| API Development | ⭐⭐⭐⭐⭐ | 6+ Years |
-| Performance Optimization | ⭐⭐⭐⭐ | 7+ Years |
 
 </div>
 
