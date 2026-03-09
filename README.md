@@ -349,8 +349,8 @@ High customer satisfaction and repeat business rate
 
 **Email:** email.aniljadhav@gmail.com  
 **Phone:** +91 9860528367  
-**LinkedIn:** [linkedin.com/in/anil-jadhav](https://linkedin.com/in/anil-jadhav)  
-**GitHub:** [@aniljadhavmca](https://www.linkedin.com/in/anil-jadhav-0489abb3/)  
+**LinkedIn:** [linkedin.com/in/anil-jadhav](https://www.linkedin.com/in/anil-jadhav-0489abb3/)  
+**GitHub:** [@aniljadhavmca](https://github.com/aniljadhavmca)  
 **Portfolio:** [me.aniljadhav.co.in](https://me.aniljadhav.co.in/)
 
 </div>
