@@ -1,4 +1,16 @@
 <div align="center">
+  
+    ███████╗██╗   ██╗██╗     ██╗      ███████╗████████╗ █████╗ ██████╗ ██╗  ██╗
+    ██╔════╝██║   ██║██║     ██║      ██╔════╝╚══██╔══╝██╔══██╗██╔══██╗██║ ██╔╝
+    █████╗  ██║   ██║██║     ██║█████╗███████╗   ██║   ███████║██║  ██║█████╔╝ 
+    ██╔══╝  ██║   ██║██║     ██║╚════╝╚════██║   ██║   ██╔══██║██║  ██║██╔═██╗ 
+    ██║     ╚██████╔╝███████╗███████╗      ██║   ██║   ██║  ██║██████╔╝██║  ██╗
+    ╚═╝      ╚═════╝ ╚══════╝╚══════╝      ╚═╝   ╚═╝   ╚═╝  ╚═╝╚═════╝ ╚═╝  ╚═╝
+
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&duration=4000&pause=500&color=0969DA&center=true&vCenter=true&width=700&lines=Full+Stack+Developer;Technical+Leader;Cloud+Architect;Building+Scalable+Solutions" alt="Typing Animation"/>
+
+
+<div align="center">
 
 # 👨‍💻 Anil Jadhav
 ### 👨‍💼 _Full Stack Developer & Technical Leader_
