@@ -1,4 +1,5 @@
 <div align="center">
+
   
     ███████╗██╗   ██╗██╗     ██╗      ███████╗████████╗ █████╗ ██████╗ ██╗  ██╗
     ██╔════╝██║   ██║██║     ██║      ██╔════╝╚══██╔══╝██╔══██╗██╔══██╗██║ ██╔╝
@@ -8,7 +9,6 @@
     ╚═╝      ╚═════╝ ╚══════╝╚══════╝      ╚═╝   ╚═╝   ╚═╝  ╚═╝╚═════╝ ╚═╝  ╚═╝
 
 <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&duration=4000&pause=500&color=0969DA&center=true&vCenter=true&width=700&lines=Full+Stack+Developer;Technical+Leader;Cloud+Architect;Building+Scalable+Solutions" alt="Typing Animation"/>
-
 
 <div align="center">
 
@@ -23,7 +23,7 @@
 
 # 👋 About Me
 
-Hi, I'm <a href="https://me.aniljadhav.co.in/" target="_blank">**Anil Jadhav**.</a> I'm a passionate **Full Stack Developer and Technical Leader** with **11+ years of professional experience** building scalable, enterprise-grade solutions. Currently leading full-stack development teams at **Globant**, managing critical eCommerce platforms for **Walt Disney World** and **Disneyland Parks** serving millions of visitors annually.
+Hi, I'm **[Anil Jadhav](https://me.aniljadhav.co.in/)** I'm a passionate **Full Stack Developer and Technical Leader** with **11+ years of professional experience** building scalable, enterprise-grade solutions. Currently leading full-stack development teams at **Globant**, managing critical eCommerce platforms for **Walt Disney World** and **Disneyland Parks** serving millions of visitors annually.
 
 I specialize in designing and implementing mission-critical systems that combine cutting-edge frontend architectures with robust backend infrastructure and cloud-native DevOps practices. My focus is on driving technical excellence, mentoring high-performing teams, and delivering exceptional user experiences at scale.
 
